@@ -1,0 +1,301 @@
+record_id,student_id,student_name,department,year_level,course_code,course_title,class_id,instructor_name,semester,score,grade,enrollment_status
+R00001,S0001,Ahmed Al-Harthi,Engineering,1,CS101,Intro to Programming,C015,Dr. Fatima Al-Balushi,Spring 2025,95,A,Enrolled
+R00002,S0001,Ahmed Al-Harthi,Engineering,1,MATH101,Calculus I,C013,Dr. Laila Ahmed,Spring 2025,88,B+,Enrolled
+R00003,S0002,Sara Al-Balushi,Computer Science,3,CS101,Intro to Programming,C022,Dr. Fatima Al-Balushi,Fall 2025,95,A,Enrolled
+R00004,S0003,Fatima Al-Rawahi,Mathematics,2,MATH201,Statistics,C005,Dr. Sarah Khan,Fall 2025,99,A,Enrolled
+R00005,S0004,Ali Al-Lawati,Mathematics,1,BUS101,Principles of Business,C023,Dr. John Smith,Fall 2025,,,Dropped
+R00006,S0083,Basma Zadjali,Computer Science,1,ENGR201,Thermodynamics,C035,Dr. Yousuf Al-Farsi,Fall 2025,98,A,Enrolled
+R00007,S0043,Hanan Shukaili,Computer Science,3,CS101,Intro to Programming,C017,Dr. Fatima Al-Balushi,Spring 2025,,,Dropped
+R00008,S0023,Nasser Harbi,Engineering,1,BIO201,Genetics,C028,Dr. Yousuf Al-Farsi,Fall 2025,83,B,Enrolled
+R00009,S0045,Faisal Al-Kindi,Biology,2,BUS101,Principles of Business,C008,Dr. John Smith,Fall 2025,77,C+,Enrolled
+R00010,S0050,Fatima Al-Farsi,Mathematics,1,BIO201,Genetics,C028,Dr. Yousuf Al-Farsi,Spring 2025,90,A,Enrolled
+R00011,S0001,Ahmed Al-Harthi,Engineering,1,ENGR201,Thermodynamics,C013,Dr. Yousuf Al-Farsi,Spring 2026,92,A,Enrolled
+R00012,S0047,Dina Bimani,English,1,ENG101,Academic Writing,C022,Dr. Ibrahim Brown,Spring 2025,,,Dropped
+R00013,S0080,Rahma Al-Kindi,Physics,4,BUS101,Principles of Business,C020,Dr. John Smith,Spring 2026,91,A,Enrolled
+R00014,S0065,Jawaher Rahman,Engineering,4,PHYS102,Physics II,C019,Dr. Ibrahim Brown,Spring 2026,70,C,Enrolled
+R00015,S0071,Laila Al-Farsi,Biology,2,CS301,Artificial Intelligence,C012,Dr. Ali Hassan,Spring 2025,69,D,Enrolled
+R00016,S0079,Sultan Al-Harthi,Mathematics,4,BIO201,Genetics,C001,Dr. Yousuf Al-Farsi,Fall 2025,98,A,Enrolled
+R00017,S0039,Huda Said,English,1,PHYS102,Physics II,C039,Dr. Ibrahim Brown,Spring 2025,82,B,Enrolled
+R00018,S0084,Abdullah Al-Balushi,Engineering,1,BUS101,Principles of Business,C014,Dr. John Smith,Fall 2025,88,B+,Enrolled
+R00019,S0066,Eman Maqbali,Mathematics,4,ENGR101,Engineering Fundamentals,C019,Dr. Fatima Al-Balushi,Spring 2026,50,F,Enrolled
+R00020,S0066,Eman Maqbali,Mathematics,4,BUS101,Principles of Business,C016,Dr. John Smith,Spring 2025,93,A,Enrolled
+R00021,S0087,Tariq Al-Rawahi,Computer Science,2,PHYS102,Physics II,C002,Dr. Ibrahim Brown,Spring 2025,54,F,Enrolled
+R00022,S0006,Nawal Al-Balushi,English,1,MATH201,Statistics,C005,Dr. Sarah Khan,Fall 2025,94,A,Enrolled
+R00023,S0059,Basma Said,Computer Science,2,ENG101,Academic Writing,C025,Dr. Ibrahim Brown,Spring 2026,90,A,Enrolled
+R00024,S0064,Saeed Al-Ghafri,Engineering,2,BUS202,Accounting,C001,Dr. Yousuf Al-Farsi,Spring 2025,89,B+,Enrolled
+R00025,S0115,Anwar Al-Farsi,Mathematics,1,CS202,Algorithms,C034,Dr. Khalid Johnson,Fall 2025,96,A,Enrolled
+R00026,S0060,Salim Al-Harthi,English,1,CS102,Data Structures,C008,Dr. Mona Al-Harthi,Spring 2026,99,A,Enrolled
+R00027,S0059,Basma Said,Computer Science,2,CS301,Artificial Intelligence,C039,Dr. Ali Hassan,Fall 2025,80,B,Enrolled
+R00028,S0041,Layla Khan,Biology,1,ENG201,Communication Skills,C028,Dr. Omar Lee,Spring 2026,77,C+,Enrolled
+R00029,S0107,Ahmed Khan,Computer Science,2,BIO101,Biology Basics,C031,Dr. Mariam Al-Lawati,Fall 2025,,,Dropped
+R00030,S0058,Salim Al-Rawahi,Mathematics,3,PHYS101,Physics I,C034,Dr. Yousuf Al-Farsi,Spring 2025,62,D,Enrolled
+R00031,S0063,Hamad Al-Farsi,Computer Science,3,MATH201,Statistics,C019,Dr. Sarah Khan,Fall 2025,90,A,Enrolled
+R00032,S0031,Saeed Johnson,Engineering,4,PHYS101,Physics I,C006,Dr. Yousuf Al-Farsi,Fall 2025,79,C+,Enrolled
+R00033,S0018,Omar Al-Balushi,English,2,CS301,Artificial Intelligence,C014,Dr. Ali Hassan,Spring 2025,54,F,Enrolled
+R00034,S0009,Asma Rahman,Mathematics,3,ENG101,Academic Writing,C027,Dr. Ibrahim Brown,Fall 2025,74,C,Enrolled
+R00035,S0008,Zahra Harbi,English,4,MATH102,Linear Algebra,C038,Dr. Yousuf Al-Farsi,Fall 2025,94,A,Enrolled
+R00036,S0090,Iman Rahman,Business,3,CS101,Intro to Programming,C023,Dr. Fatima Al-Balushi,Spring 2026,45,F,Enrolled
+R00037,S0039,Huda Said,English,1,BUS202,Accounting,C035,Dr. Yousuf Al-Farsi,Fall 2025,92,A,Enrolled
+R00038,S0103,Amal Qasimi,Physics,2,MATH201,Statistics,C032,Dr. Sarah Khan,Fall 2025,72,C,Enrolled
+R00039,S0004,Ali Al-Lawati,Mathematics,1,BUS202,Accounting,C026,Dr. Yousuf Al-Farsi,Fall 2025,96,A,Enrolled
+R00040,S0093,Layla Al-Kindi,Engineering,4,MATH101,Calculus I,C040,Dr. Laila Ahmed,Fall 2025,,,Dropped
+R00041,S0069,Hanan Al-Balushi,Biology,1,CS101,Intro to Programming,C002,Dr. Fatima Al-Balushi,Fall 2025,87,B+,Enrolled
+R00042,S0011,Nawal Khan,Engineering,3,ENG101,Academic Writing,C012,Dr. Ibrahim Brown,Spring 2025,,,Dropped
+R00043,S0007,Ibrahim Al-Farsi,Computer Science,1,PHYS101,Physics I,C021,Dr. Yousuf Al-Farsi,Fall 2025,74,C,Enrolled
+R00044,S0044,Adel Al-Hinai,English,1,BUS202,Accounting,C027,Dr. Yousuf Al-Farsi,Fall 2025,98,A,Enrolled
+R00045,S0033,Rania Said,Engineering,3,CS201,Database Systems,C004,Dr. Mariam Al-Lawati,Fall 2025,79,C+,Enrolled
+R00046,S0045,Faisal Al-Kindi,Biology,2,MATH201,Statistics,C003,Dr. Sarah Khan,Spring 2026,86,B+,Enrolled
+R00047,S0097,Maryam Shukaili,Mathematics,1,CS101,Intro to Programming,C040,Dr. Fatima Al-Balushi,Spring 2025,46,F,Enrolled
+R00048,S0020,Laila Johnson,Biology,3,MATH201,Statistics,C037,Dr. Sarah Khan,Spring 2025,52,F,Enrolled
+R00049,S0028,Sara Maqbali,Mathematics,3,ENG201,Communication Skills,C011,Dr. Omar Lee,Spring 2026,68,D,Enrolled
+R00050,S0078,Talal Shukaili,Mathematics,1,CS202,Algorithms,C007,Dr. Khalid Johnson,Spring 2025,,,Dropped
+R00051,S0075,Layla Said,Computer Science,1,CS101,Intro to Programming,C026,Dr. Fatima Al-Balushi,Fall 2025,69,D,Enrolled
+R00052,S0092,Huda Johnson,Mathematics,2,MATH102,Linear Algebra,C016,Dr. Yousuf Al-Farsi,Spring 2025,98,A,Enrolled
+R00053,S0014,Maryam Qasimi,Physics,3,PHYS102,Physics II,C037,Dr. Ibrahim Brown,Spring 2026,52,F,Enrolled
+R00054,S0101,Iman Al-Lawati,Engineering,2,CS102,Data Structures,C024,Dr. Mona Al-Harthi,Fall 2025,87,B+,Enrolled
+R00055,S0009,Asma Rahman,Mathematics,3,ENGR201,Thermodynamics,C027,Dr. Yousuf Al-Farsi,Spring 2026,99,A,Enrolled
+R00056,S0106,Faisal Brown,Computer Science,3,ENGR101,Engineering Fundamentals,C030,Dr. Fatima Al-Balushi,Spring 2025,68,D,Enrolled
+R00057,S0091,Ibrahim Nabhani,Physics,3,CS301,Artificial Intelligence,C018,Dr. Ali Hassan,Fall 2025,78,C+,Enrolled
+R00058,S0079,Sultan Al-Harthi,Mathematics,4,BIO101,Biology Basics,C038,Dr. Mariam Al-Lawati,Fall 2025,97,A,Enrolled
+R00059,S0035,Salim Al-Maamari,Physics,4,BUS101,Principles of Business,C018,Dr. John Smith,Spring 2025,50,F,Enrolled
+R00060,S0113,Sara Al-Kindi,Mathematics,3,ENG201,Communication Skills,C040,Dr. Omar Lee,Spring 2025,81,B,Enrolled
+R00061,S0086,Hamad Al-Rawahi,Computer Science,2,BUS202,Accounting,C021,Dr. Yousuf Al-Farsi,Fall 2025,99,A,Enrolled
+R00062,S0024,Faisal Al-Hinai,English,2,ENGR101,Engineering Fundamentals,C022,Dr. Fatima Al-Balushi,Spring 2025,61,D,Enrolled
+R00063,S0036,Adel Al-Balushi,Computer Science,1,PHYS101,Physics I,C006,Dr. Yousuf Al-Farsi,Spring 2026,57,F,Enrolled
+R00064,S0031,Saeed Johnson,Engineering,4,ENG101,Academic Writing,C031,Dr. Ibrahim Brown,Fall 2025,60,D,Enrolled
+R00065,S0083,Basma Zadjali,Computer Science,1,ENGR101,Engineering Fundamentals,C019,Dr. Fatima Al-Balushi,Fall 2025,50,F,Enrolled
+R00066,S0029,Nasser Al-Rawahi,Business,2,BUS202,Accounting,C038,Dr. Yousuf Al-Farsi,Spring 2026,87,B+,Enrolled
+R00067,S0048,Abdullah Ahmed,English,1,ENGR101,Engineering Fundamentals,C036,Dr. Fatima Al-Balushi,Spring 2026,72,C,Enrolled
+R00068,S0043,Hanan Shukaili,Computer Science,3,BUS201,Marketing,C017,Dr. John Smith,Spring 2026,64,D,Enrolled
+R00069,S0030,Nada Khan,English,2,CS202,Algorithms,C035,Dr. Khalid Johnson,Spring 2026,52,F,Enrolled
+R00070,S0098,Rawan Al-Kindi,Mathematics,2,MATH101,Calculus I,C018,Dr. Laila Ahmed,Spring 2025,75,C+,Enrolled
+R00071,S0093,Layla Al-Kindi,Engineering,4,BIO201,Genetics,C013,Dr. Yousuf Al-Farsi,Spring 2026,51,F,Enrolled
+R00072,S0038,Sultan Qasimi,Business,4,MATH201,Statistics,C035,Dr. Sarah Khan,Fall 2025,45,F,Enrolled
+R00073,S0017,Rania Al-Kindi,Computer Science,3,PHYS101,Physics I,C036,Dr. Yousuf Al-Farsi,Spring 2025,,,Dropped
+R00074,S0038,Sultan Qasimi,Business,4,CS301,Artificial Intelligence,C032,Dr. Ali Hassan,Spring 2026,,,Dropped
+R00075,S0014,Maryam Qasimi,Physics,3,CS101,Intro to Programming,C029,Dr. Fatima Al-Balushi,Spring 2026,75,C+,Enrolled
+R00076,S0044,Adel Al-Hinai,English,1,MATH101,Calculus I,C031,Dr. Laila Ahmed,Spring 2025,100,A,Enrolled
+R00077,S0015,Sara Zadjali,Biology,4,CS201,Database Systems,C004,Dr. Mariam Al-Lawati,Fall 2025,81,B,Enrolled
+R00078,S0020,Laila Johnson,Biology,3,CS301,Artificial Intelligence,C006,Dr. Ali Hassan,Spring 2026,,,Dropped
+R00079,S0032,Huda Al-Maamari,Mathematics,2,CS202,Algorithms,C039,Dr. Khalid Johnson,Spring 2026,83,B,Enrolled
+R00080,S0102,Laila Zadjali,Physics,2,MATH201,Statistics,C020,Dr. Sarah Khan,Spring 2026,73,C,Enrolled
+R00081,S0111,Sara Yahyai,English,3,BIO201,Genetics,C004,Dr. Yousuf Al-Farsi,Fall 2025,84,B,Enrolled
+R00082,S0079,Sultan Al-Harthi,Mathematics,4,CS202,Algorithms,C006,Dr. Khalid Johnson,Spring 2025,61,D,Enrolled
+R00083,S0021,Faisal Yahyai,Business,3,MATH201,Statistics,C001,Dr. Sarah Khan,Spring 2025,55,F,Enrolled
+R00084,S0053,Iman Ahmed,Mathematics,2,ENG201,Communication Skills,C003,Dr. Omar Lee,Spring 2026,63,D,Enrolled
+R00085,S0030,Nada Khan,English,2,PHYS102,Physics II,C030,Dr. Ibrahim Brown,Spring 2026,100,A,Enrolled
+R00086,S0010,Ahmed Busaidi,Biology,2,MATH201,Statistics,C038,Dr. Sarah Khan,Fall 2025,85,B+,Enrolled
+R00087,S0085,Eman Hassan,English,2,MATH102,Linear Algebra,C010,Dr. Yousuf Al-Farsi,Fall 2025,59,F,Enrolled
+R00088,S0117,Majid Al-Maamari,English,2,PHYS101,Physics I,C020,Dr. Yousuf Al-Farsi,Spring 2025,55,F,Enrolled
+R00089,S0077,Rashid Ahmed,Mathematics,4,BIO201,Genetics,C020,Dr. Yousuf Al-Farsi,Fall 2025,74,C,Enrolled
+R00090,S0090,Iman Rahman,Business,3,BUS202,Accounting,C029,Dr. Yousuf Al-Farsi,Fall 2025,76,C+,Enrolled
+R00091,S0011,Nawal Khan,Engineering,3,CS102,Data Structures,C017,Dr. Mona Al-Harthi,Fall 2025,83,B,Enrolled
+R00092,S0004,Ali Al-Lawati,Mathematics,1,CS201,Database Systems,C037,Dr. Mariam Al-Lawati,Spring 2025,,,Dropped
+R00093,S0076,Adel Riyami,Computer Science,2,CS101,Intro to Programming,C003,Dr. Fatima Al-Balushi,Spring 2026,81,B,Enrolled
+R00094,S0098,Rawan Al-Kindi,Mathematics,2,MATH101,Calculus I,C018,Dr. Laila Ahmed,Fall 2025,73,C,Enrolled
+R00095,S0024,Faisal Al-Hinai,English,2,BIO201,Genetics,C006,Dr. Yousuf Al-Farsi,Fall 2025,76,C+,Enrolled
+R00096,S0061,Faisal Al-Balushi,Engineering,2,BUS201,Marketing,C007,Dr. John Smith,Fall 2025,87,B+,Enrolled
+R00097,S0110,Omar Shukaili,Computer Science,2,MATH101,Calculus I,C019,Dr. Laila Ahmed,Fall 2025,76,C+,Enrolled
+R00098,S0085,Eman Hassan,English,2,BUS202,Accounting,C021,Dr. Yousuf Al-Farsi,Spring 2026,50,F,Enrolled
+R00099,S0033,Rania Said,Engineering,3,BUS101,Principles of Business,C026,Dr. John Smith,Spring 2025,,,Dropped
+R00100,S0111,Sara Yahyai,English,3,ENGR201,Thermodynamics,C030,Dr. Yousuf Al-Farsi,Spring 2025,79,C+,Enrolled
+R00101,S0053,Iman Ahmed,Mathematics,2,CS102,Data Structures,C032,Dr. Mona Al-Harthi,Spring 2025,84,B,Enrolled
+R00102,S0081,Hanan Maqbali,Engineering,4,ENG201,Communication Skills,C009,Dr. Omar Lee,Spring 2025,80,B,Enrolled
+R00103,S0119,Ali Al-Hinai,Business,3,PHYS102,Physics II,C032,Dr. Ibrahim Brown,Fall 2025,,,Dropped
+R00104,S0016,Hassan Bimani,English,4,CS101,Intro to Programming,C011,Dr. Fatima Al-Balushi,Spring 2026,60,D,Enrolled
+R00105,S0040,Hanan Al-Lawati,Engineering,3,BIO101,Biology Basics,C015,Dr. Mariam Al-Lawati,Spring 2025,50,F,Enrolled
+R00106,S0108,Huda Al-Hinai,Engineering,4,CS202,Algorithms,C010,Dr. Khalid Johnson,Fall 2025,,,Dropped
+R00107,S0064,Saeed Al-Ghafri,Engineering,2,PHYS102,Physics II,C031,Dr. Ibrahim Brown,Spring 2026,71,C,Enrolled
+R00108,S0061,Faisal Al-Balushi,Engineering,2,MATH201,Statistics,C013,Dr. Sarah Khan,Fall 2025,69,D,Enrolled
+R00109,S0118,Khalid Maqbali,Biology,2,ENGR201,Thermodynamics,C005,Dr. Yousuf Al-Farsi,Spring 2026,,,Dropped
+R00110,S0036,Adel Al-Balushi,Computer Science,1,ENG101,Academic Writing,C033,Dr. Ibrahim Brown,Fall 2025,,,Dropped
+R00111,S0035,Salim Al-Maamari,Physics,4,CS101,Intro to Programming,C038,Dr. Fatima Al-Balushi,Fall 2025,98,A,Enrolled
+R00112,S0075,Layla Said,Computer Science,1,ENGR101,Engineering Fundamentals,C023,Dr. Fatima Al-Balushi,Spring 2025,75,C+,Enrolled
+R00113,S0043,Hanan Shukaili,Computer Science,3,BIO101,Biology Basics,C013,Dr. Mariam Al-Lawati,Spring 2026,65,D,Enrolled
+R00114,S0090,Iman Rahman,Business,3,MATH201,Statistics,C027,Dr. Sarah Khan,Spring 2026,99,A,Enrolled
+R00115,S0006,Nawal Al-Balushi,English,1,BUS101,Principles of Business,C025,Dr. John Smith,Spring 2026,96,A,Enrolled
+R00116,S0050,Fatima Al-Farsi,Mathematics,1,CS301,Artificial Intelligence,C009,Dr. Ali Hassan,Fall 2025,,,Dropped
+R00117,S0065,Jawaher Rahman,Engineering,4,BIO201,Genetics,C029,Dr. Yousuf Al-Farsi,Fall 2025,,,Dropped
+R00118,S0013,Noor Johnson,Computer Science,1,ENGR201,Thermodynamics,C027,Dr. Yousuf Al-Farsi,Fall 2025,54,F,Enrolled
+R00119,S0112,Rania Al-Maamari,English,4,CS301,Artificial Intelligence,C022,Dr. Ali Hassan,Spring 2025,61,D,Enrolled
+R00120,S0080,Rahma Al-Kindi,Physics,4,BUS202,Accounting,C035,Dr. Yousuf Al-Farsi,Spring 2026,66,D,Enrolled
+R00121,S0049,Rawan Shukaili,Computer Science,3,BUS101,Principles of Business,C032,Dr. John Smith,Spring 2026,93,A,Enrolled
+R00122,S0112,Rania Al-Maamari,English,4,BIO101,Biology Basics,C019,Dr. Mariam Al-Lawati,Spring 2025,60,D,Enrolled
+R00123,S0030,Nada Khan,English,2,CS201,Database Systems,C007,Dr. Mariam Al-Lawati,Fall 2025,,,Dropped
+R00124,S0057,Badr Lee,Business,1,MATH101,Calculus I,C003,Dr. Laila Ahmed,Spring 2026,46,F,Enrolled
+R00125,S0042,Nawal Al-Hinai,Physics,4,CS102,Data Structures,C010,Dr. Mona Al-Harthi,Fall 2025,72,C,Enrolled
+R00126,S0032,Huda Al-Maamari,Mathematics,2,ENGR201,Thermodynamics,C012,Dr. Yousuf Al-Farsi,Fall 2025,95,A,Enrolled
+R00127,S0022,Rawan Smith,Mathematics,2,MATH101,Calculus I,C040,Dr. Laila Ahmed,Spring 2025,69,D,Enrolled
+R00128,S0088,Hassan Shukaili,Business,2,MATH201,Statistics,C010,Dr. Sarah Khan,Fall 2025,,,Dropped
+R00129,S0030,Nada Khan,English,2,ENG201,Communication Skills,C001,Dr. Omar Lee,Spring 2026,61,D,Enrolled
+R00130,S0116,Dina Said,Physics,4,ENG201,Communication Skills,C005,Dr. Omar Lee,Fall 2025,55,F,Enrolled
+R00131,S0057,Badr Lee,Business,1,BUS201,Marketing,C017,Dr. John Smith,Spring 2026,72,C,Enrolled
+R00132,S0059,Basma Said,Computer Science,2,PHYS102,Physics II,C031,Dr. Ibrahim Brown,Spring 2025,,,Dropped
+R00133,S0014,Maryam Qasimi,Physics,3,MATH201,Statistics,C019,Dr. Sarah Khan,Fall 2025,81,B,Enrolled
+R00134,S0090,Iman Rahman,Business,3,PHYS102,Physics II,C026,Dr. Ibrahim Brown,Spring 2025,,,Dropped
+R00135,S0036,Adel Al-Balushi,Computer Science,1,CS101,Intro to Programming,C004,Dr. Fatima Al-Balushi,Spring 2026,,,Dropped
+R00136,S0117,Majid Al-Maamari,English,2,ENGR101,Engineering Fundamentals,C039,Dr. Fatima Al-Balushi,Fall 2025,59,F,Enrolled
+R00137,S0103,Amal Qasimi,Physics,2,BUS201,Marketing,C017,Dr. John Smith,Spring 2025,84,B,Enrolled
+R00138,S0087,Tariq Al-Rawahi,Computer Science,2,CS301,Artificial Intelligence,C003,Dr. Ali Hassan,Spring 2026,85,B+,Enrolled
+R00139,S0040,Hanan Al-Lawati,Engineering,3,ENG201,Communication Skills,C009,Dr. Omar Lee,Spring 2025,91,A,Enrolled
+R00140,S0012,Ibrahim Busaidi,Mathematics,3,PHYS102,Physics II,C013,Dr. Ibrahim Brown,Fall 2025,56,F,Enrolled
+R00141,S0017,Rania Al-Kindi,Computer Science,3,BIO101,Biology Basics,C011,Dr. Mariam Al-Lawati,Fall 2025,62,D,Enrolled
+R00142,S0033,Rania Said,Engineering,3,ENGR101,Engineering Fundamentals,C008,Dr. Fatima Al-Balushi,Fall 2025,66,D,Enrolled
+R00143,S0060,Salim Al-Harthi,English,1,CS201,Database Systems,C026,Dr. Mariam Al-Lawati,Spring 2025,59,F,Enrolled
+R00144,S0109,Nada Brown,English,1,BIO101,Biology Basics,C001,Dr. Mariam Al-Lawati,Fall 2025,70,C,Enrolled
+R00145,S0034,Basma Brown,Engineering,4,BIO101,Biology Basics,C017,Dr. Mariam Al-Lawati,Spring 2025,88,B+,Enrolled
+R00146,S0075,Layla Said,Computer Science,1,BUS202,Accounting,C007,Dr. Yousuf Al-Farsi,Spring 2026,,,Dropped
+R00147,S0087,Tariq Al-Rawahi,Computer Science,2,MATH201,Statistics,C021,Dr. Sarah Khan,Fall 2025,80,B,Enrolled
+R00148,S0118,Khalid Maqbali,Biology,2,MATH201,Statistics,C030,Dr. Sarah Khan,Spring 2026,97,A,Enrolled
+R00149,S0117,Majid Al-Maamari,English,2,PHYS102,Physics II,C003,Dr. Ibrahim Brown,Spring 2026,53,F,Enrolled
+R00150,S0005,Omar Khan,Engineering,1,PHYS102,Physics II,C035,Dr. Ibrahim Brown,Fall 2025,60,D,Enrolled
+R00151,S0018,Omar Al-Balushi,English,2,BUS202,Accounting,C035,Dr. Yousuf Al-Farsi,Fall 2025,92,A,Enrolled
+R00152,S0054,Badr Riyami,Physics,4,BIO201,Genetics,C007,Dr. Yousuf Al-Farsi,Spring 2026,71,C,Enrolled
+R00153,S0107,Ahmed Khan,Computer Science,2,ENGR101,Engineering Fundamentals,C003,Dr. Fatima Al-Balushi,Spring 2026,62,D,Enrolled
+R00154,S0089,Tariq Al-Balushi,English,1,BUS201,Marketing,C024,Dr. John Smith,Spring 2025,60,D,Enrolled
+R00155,S0013,Noor Johnson,Computer Science,1,BUS201,Marketing,C023,Dr. John Smith,Spring 2026,,,Dropped
+R00156,S0008,Zahra Harbi,English,4,BUS202,Accounting,C030,Dr. Yousuf Al-Farsi,Fall 2025,52,F,Enrolled
+R00157,S0012,Ibrahim Busaidi,Mathematics,3,MATH102,Linear Algebra,C004,Dr. Yousuf Al-Farsi,Spring 2026,46,F,Enrolled
+R00158,S0101,Iman Al-Lawati,Engineering,2,BUS101,Principles of Business,C037,Dr. John Smith,Spring 2025,,,Dropped
+R00159,S0027,Abdullah Yahyai,Engineering,1,CS201,Database Systems,C015,Dr. Mariam Al-Lawati,Spring 2026,58,F,Enrolled
+R00160,S0043,Hanan Shukaili,Computer Science,3,CS301,Artificial Intelligence,C010,Dr. Ali Hassan,Spring 2026,99,A,Enrolled
+R00161,S0103,Amal Qasimi,Physics,2,MATH101,Calculus I,C009,Dr. Laila Ahmed,Spring 2025,46,F,Enrolled
+R00162,S0002,Sara Al-Balushi,Computer Science,3,BUS201,Marketing,C012,Dr. John Smith,Spring 2025,46,F,Enrolled
+R00163,S0034,Basma Brown,Engineering,4,CS102,Data Structures,C008,Dr. Mona Al-Harthi,Spring 2025,78,C+,Enrolled
+R00164,S0096,Shatha Al-Ghafri,Computer Science,3,CS201,Database Systems,C033,Dr. Mariam Al-Lawati,Fall 2025,68,D,Enrolled
+R00165,S0076,Adel Riyami,Computer Science,2,CS202,Algorithms,C003,Dr. Khalid Johnson,Fall 2025,84,B,Enrolled
+R00166,S0094,Adel Bimani,Physics,1,ENGR201,Thermodynamics,C004,Dr. Yousuf Al-Farsi,Fall 2025,46,F,Enrolled
+R00167,S0062,Sara Riyami,Computer Science,3,BUS202,Accounting,C029,Dr. Yousuf Al-Farsi,Fall 2025,76,C+,Enrolled
+R00168,S0010,Ahmed Busaidi,Biology,2,CS201,Database Systems,C009,Dr. Mariam Al-Lawati,Fall 2025,49,F,Enrolled
+R00169,S0036,Adel Al-Balushi,Computer Science,1,BIO201,Genetics,C039,Dr. Yousuf Al-Farsi,Spring 2026,69,D,Enrolled
+R00170,S0068,Nawal Brown,Physics,4,PHYS102,Physics II,C007,Dr. Ibrahim Brown,Fall 2025,72,C,Enrolled
+R00171,S0102,Laila Zadjali,Physics,2,CS202,Algorithms,C036,Dr. Khalid Johnson,Spring 2026,94,A,Enrolled
+R00172,S0093,Layla Al-Kindi,Engineering,4,MATH102,Linear Algebra,C027,Dr. Yousuf Al-Farsi,Fall 2025,59,F,Enrolled
+R00173,S0044,Adel Al-Hinai,English,1,ENG201,Communication Skills,C021,Dr. Omar Lee,Fall 2025,51,F,Enrolled
+R00174,S0055,Hanan Harbi,Mathematics,2,BUS101,Principles of Business,C031,Dr. John Smith,Spring 2026,54,F,Enrolled
+R00175,S0009,Asma Rahman,Mathematics,3,CS201,Database Systems,C024,Dr. Mariam Al-Lawati,Spring 2025,51,F,Enrolled
+R00176,S0104,Mahmood Al-Ghafri,Engineering,3,CS301,Artificial Intelligence,C036,Dr. Ali Hassan,Spring 2026,80,B,Enrolled
+R00177,S0043,Hanan Shukaili,Computer Science,3,CS202,Algorithms,C028,Dr. Khalid Johnson,Fall 2025,87,B+,Enrolled
+R00178,S0112,Rania Al-Maamari,English,4,CS102,Data Structures,C007,Dr. Mona Al-Harthi,Fall 2025,67,D,Enrolled
+R00179,S0074,Omar Lee,Mathematics,1,ENGR201,Thermodynamics,C015,Dr. Yousuf Al-Farsi,Spring 2025,75,C+,Enrolled
+R00180,S0109,Nada Brown,English,1,CS202,Algorithms,C008,Dr. Khalid Johnson,Fall 2025,68,D,Enrolled
+R00181,S0098,Rawan Al-Kindi,Mathematics,2,PHYS101,Physics I,C036,Dr. Yousuf Al-Farsi,Spring 2026,72,C,Enrolled
+R00182,S0099,Shatha Harbi,Business,3,BIO101,Biology Basics,C018,Dr. Mariam Al-Lawati,Spring 2025,87,B+,Enrolled
+R00183,S0004,Ali Al-Lawati,Mathematics,1,MATH101,Calculus I,C022,Dr. Laila Ahmed,Fall 2025,64,D,Enrolled
+R00184,S0045,Faisal Al-Kindi,Biology,2,CS101,Intro to Programming,C037,Dr. Fatima Al-Balushi,Spring 2025,,,Dropped
+R00185,S0085,Eman Hassan,English,2,BUS202,Accounting,C002,Dr. Yousuf Al-Farsi,Spring 2025,85,B+,Enrolled
+R00186,S0012,Ibrahim Busaidi,Mathematics,3,ENGR201,Thermodynamics,C022,Dr. Yousuf Al-Farsi,Spring 2025,74,C,Enrolled
+R00187,S0021,Faisal Yahyai,Business,3,BUS201,Marketing,C037,Dr. John Smith,Fall 2025,94,A,Enrolled
+R00188,S0077,Rashid Ahmed,Mathematics,4,CS201,Database Systems,C040,Dr. Mariam Al-Lawati,Spring 2025,93,A,Enrolled
+R00189,S0007,Ibrahim Al-Farsi,Computer Science,1,CS201,Database Systems,C032,Dr. Mariam Al-Lawati,Fall 2025,72,C,Enrolled
+R00190,S0078,Talal Shukaili,Mathematics,1,ENG201,Communication Skills,C033,Dr. Omar Lee,Fall 2025,93,A,Enrolled
+R00191,S0015,Sara Zadjali,Biology,4,BUS201,Marketing,C038,Dr. John Smith,Fall 2025,88,B+,Enrolled
+R00192,S0063,Hamad Al-Farsi,Computer Science,3,ENGR201,Thermodynamics,C026,Dr. Yousuf Al-Farsi,Spring 2026,59,F,Enrolled
+R00193,S0077,Rashid Ahmed,Mathematics,4,CS102,Data Structures,C009,Dr. Mona Al-Harthi,Spring 2025,58,F,Enrolled
+R00194,S0098,Rawan Al-Kindi,Mathematics,2,PHYS101,Physics I,C032,Dr. Yousuf Al-Farsi,Fall 2025,45,F,Enrolled
+R00195,S0096,Shatha Al-Ghafri,Computer Science,3,ENG101,Academic Writing,C015,Dr. Ibrahim Brown,Spring 2025,79,C+,Enrolled
+R00196,S0065,Jawaher Rahman,Engineering,4,BIO101,Biology Basics,C026,Dr. Mariam Al-Lawati,Spring 2026,49,F,Enrolled
+R00197,S0111,Sara Yahyai,English,3,CS102,Data Structures,C021,Dr. Mona Al-Harthi,Fall 2025,49,F,Enrolled
+R00198,S0074,Omar Lee,Mathematics,1,ENG101,Academic Writing,C027,Dr. Ibrahim Brown,Spring 2026,85,B+,Enrolled
+R00199,S0038,Sultan Qasimi,Business,4,CS202,Algorithms,C011,Dr. Khalid Johnson,Fall 2025,65,D,Enrolled
+R00200,S0103,Amal Qasimi,Physics,2,ENG201,Communication Skills,C006,Dr. Omar Lee,Spring 2026,,,Dropped
+R00201,S0056,Mona Johnson,Engineering,3,CS202,Algorithms,C034,Dr. Khalid Johnson,Spring 2025,70,C,Enrolled
+R00202,S0011,Nawal Khan,Engineering,3,BUS202,Accounting,C022,Dr. Yousuf Al-Farsi,Fall 2025,59,F,Enrolled
+R00203,S0100,Layla Hassan,English,1,MATH101,Calculus I,C034,Dr. Laila Ahmed,Spring 2025,52,F,Enrolled
+R00204,S0066,Eman Maqbali,Mathematics,4,MATH102,Linear Algebra,C010,Dr. Yousuf Al-Farsi,Fall 2025,97,A,Enrolled
+R00205,S0031,Saeed Johnson,Engineering,4,CS202,Algorithms,C039,Dr. Khalid Johnson,Spring 2025,56,F,Enrolled
+R00206,S0020,Laila Johnson,Biology,3,CS201,Database Systems,C032,Dr. Mariam Al-Lawati,Spring 2025,,,Dropped
+R00207,S0060,Salim Al-Harthi,English,1,BIO201,Genetics,C040,Dr. Yousuf Al-Farsi,Spring 2026,81,B,Enrolled
+R00208,S0042,Nawal Al-Hinai,Physics,4,BUS101,Principles of Business,C029,Dr. John Smith,Spring 2025,75,C+,Enrolled
+R00209,S0081,Hanan Maqbali,Engineering,4,PHYS102,Physics II,C033,Dr. Ibrahim Brown,Fall 2025,67,D,Enrolled
+R00210,S0010,Ahmed Busaidi,Biology,2,PHYS102,Physics II,C024,Dr. Ibrahim Brown,Fall 2025,48,F,Enrolled
+R00211,S0107,Ahmed Khan,Computer Science,2,PHYS102,Physics II,C006,Dr. Ibrahim Brown,Spring 2025,99,A,Enrolled
+R00212,S0079,Sultan Al-Harthi,Mathematics,4,ENGR201,Thermodynamics,C003,Dr. Yousuf Al-Farsi,Fall 2025,80,B,Enrolled
+R00213,S0058,Salim Al-Rawahi,Mathematics,3,BIO201,Genetics,C031,Dr. Yousuf Al-Farsi,Spring 2026,83,B,Enrolled
+R00214,S0065,Jawaher Rahman,Engineering,4,CS301,Artificial Intelligence,C022,Dr. Ali Hassan,Spring 2025,96,A,Enrolled
+R00215,S0092,Huda Johnson,Mathematics,2,CS201,Database Systems,C016,Dr. Mariam Al-Lawati,Spring 2026,47,F,Enrolled
+R00216,S0091,Ibrahim Nabhani,Physics,3,ENG201,Communication Skills,C011,Dr. Omar Lee,Fall 2025,84,B,Enrolled
+R00217,S0047,Dina Bimani,English,1,BUS201,Marketing,C022,Dr. John Smith,Fall 2025,94,A,Enrolled
+R00218,S0087,Tariq Al-Rawahi,Computer Science,2,CS102,Data Structures,C022,Dr. Mona Al-Harthi,Spring 2026,49,F,Enrolled
+R00219,S0013,Noor Johnson,Computer Science,1,BIO101,Biology Basics,C039,Dr. Mariam Al-Lawati,Spring 2026,61,D,Enrolled
+R00220,S0112,Rania Al-Maamari,English,4,CS301,Artificial Intelligence,C010,Dr. Ali Hassan,Fall 2025,87,B+,Enrolled
+R00221,S0118,Khalid Maqbali,Biology,2,BUS201,Marketing,C026,Dr. John Smith,Fall 2025,,,Dropped
+R00222,S0017,Rania Al-Kindi,Computer Science,3,CS201,Database Systems,C022,Dr. Mariam Al-Lawati,Fall 2025,86,B+,Enrolled
+R00223,S0105,Saeed Al-Saadi,English,1,CS301,Artificial Intelligence,C034,Dr. Ali Hassan,Spring 2026,92,A,Enrolled
+R00224,S0012,Ibrahim Busaidi,Mathematics,3,ENG101,Academic Writing,C020,Dr. Ibrahim Brown,Spring 2026,68,D,Enrolled
+R00225,S0024,Faisal Al-Hinai,English,2,MATH102,Linear Algebra,C032,Dr. Yousuf Al-Farsi,Fall 2025,,,Dropped
+R00226,S0025,Rahma Johnson,Mathematics,3,MATH201,Statistics,C007,Dr. Sarah Khan,Spring 2025,63,D,Enrolled
+R00227,S0114,Sara Shukaili,Biology,3,ENGR201,Thermodynamics,C040,Dr. Yousuf Al-Farsi,Spring 2025,94,A,Enrolled
+R00228,S0017,Rania Al-Kindi,Computer Science,3,BUS202,Accounting,C040,Dr. Yousuf Al-Farsi,Spring 2025,98,A,Enrolled
+R00229,S0104,Mahmood Al-Ghafri,Engineering,3,MATH101,Calculus I,C024,Dr. Laila Ahmed,Spring 2026,71,C,Enrolled
+R00230,S0079,Sultan Al-Harthi,Mathematics,4,PHYS102,Physics II,C035,Dr. Ibrahim Brown,Spring 2026,59,F,Enrolled
+R00231,S0031,Saeed Johnson,Engineering,4,PHYS102,Physics II,C013,Dr. Ibrahim Brown,Fall 2025,,,Dropped
+R00232,S0048,Abdullah Ahmed,English,1,BIO201,Genetics,C025,Dr. Yousuf Al-Farsi,Fall 2025,63,D,Enrolled
+R00233,S0065,Jawaher Rahman,Engineering,4,ENGR201,Thermodynamics,C013,Dr. Yousuf Al-Farsi,Fall 2025,,,Dropped
+R00234,S0103,Amal Qasimi,Physics,2,CS301,Artificial Intelligence,C024,Dr. Ali Hassan,Fall 2025,75,C+,Enrolled
+R00235,S0071,Laila Al-Farsi,Biology,2,CS202,Algorithms,C008,Dr. Khalid Johnson,Spring 2026,99,A,Enrolled
+R00236,S0037,Anwar Brown,Mathematics,1,CS201,Database Systems,C010,Dr. Mariam Al-Lawati,Spring 2025,77,C+,Enrolled
+R00237,S0107,Ahmed Khan,Computer Science,2,ENG101,Academic Writing,C015,Dr. Ibrahim Brown,Spring 2025,,,Dropped
+R00238,S0105,Saeed Al-Saadi,English,1,ENG201,Communication Skills,C027,Dr. Omar Lee,Fall 2025,,,Dropped
+R00239,S0007,Ibrahim Al-Farsi,Computer Science,1,BUS202,Accounting,C006,Dr. Yousuf Al-Farsi,Spring 2026,69,D,Enrolled
+R00240,S0048,Abdullah Ahmed,English,1,MATH201,Statistics,C022,Dr. Sarah Khan,Spring 2025,51,F,Enrolled
+R00241,S0102,Laila Zadjali,Physics,2,CS301,Artificial Intelligence,C031,Dr. Ali Hassan,Spring 2025,98,A,Enrolled
+R00242,S0090,Iman Rahman,Business,3,CS301,Artificial Intelligence,C001,Dr. Ali Hassan,Spring 2026,84,B,Enrolled
+R00243,S0116,Dina Said,Physics,4,CS201,Database Systems,C010,Dr. Mariam Al-Lawati,Spring 2025,98,A,Enrolled
+R00244,S0071,Laila Al-Farsi,Biology,2,ENGR201,Thermodynamics,C016,Dr. Yousuf Al-Farsi,Fall 2025,63,D,Enrolled
+R00245,S0039,Huda Said,English,1,CS202,Algorithms,C040,Dr. Khalid Johnson,Spring 2025,85,B+,Enrolled
+R00246,S0059,Basma Said,Computer Science,2,CS201,Database Systems,C039,Dr. Mariam Al-Lawati,Spring 2025,76,C+,Enrolled
+R00247,S0069,Hanan Al-Balushi,Biology,1,CS101,Intro to Programming,C010,Dr. Fatima Al-Balushi,Spring 2026,60,D,Enrolled
+R00248,S0038,Sultan Qasimi,Business,4,ENG101,Academic Writing,C037,Dr. Ibrahim Brown,Spring 2025,60,D,Enrolled
+R00249,S0054,Badr Riyami,Physics,4,MATH101,Calculus I,C024,Dr. Laila Ahmed,Spring 2026,78,C+,Enrolled
+R00250,S0065,Jawaher Rahman,Engineering,4,ENGR201,Thermodynamics,C031,Dr. Yousuf Al-Farsi,Spring 2026,100,A,Enrolled
+R00251,S0006,Nawal Al-Balushi,English,1,BUS202,Accounting,C023,Dr. Yousuf Al-Farsi,Fall 2025,46,F,Enrolled
+R00252,S0101,Iman Al-Lawati,Engineering,2,CS201,Database Systems,C007,Dr. Mariam Al-Lawati,Fall 2025,87,B+,Enrolled
+R00253,S0099,Shatha Harbi,Business,3,BIO201,Genetics,C003,Dr. Yousuf Al-Farsi,Spring 2026,53,F,Enrolled
+R00254,S0046,Rawan Busaidi,Mathematics,2,BIO101,Biology Basics,C030,Dr. Mariam Al-Lawati,Fall 2025,56,F,Enrolled
+R00255,S0090,Iman Rahman,Business,3,ENGR101,Engineering Fundamentals,C005,Dr. Fatima Al-Balushi,Spring 2026,53,F,Enrolled
+R00256,S0092,Huda Johnson,Mathematics,2,ENG201,Communication Skills,C013,Dr. Omar Lee,Spring 2025,47,F,Enrolled
+R00257,S0114,Sara Shukaili,Biology,3,CS102,Data Structures,C033,Dr. Mona Al-Harthi,Fall 2025,,,Dropped
+R00258,S0051,Hanan Ahmed,Computer Science,1,BIO101,Biology Basics,C013,Dr. Mariam Al-Lawati,Fall 2025,93,A,Enrolled
+R00259,S0037,Anwar Brown,Mathematics,1,BUS201,Marketing,C022,Dr. John Smith,Spring 2025,,,Dropped
+R00260,S0035,Salim Al-Maamari,Physics,4,CS202,Algorithms,C029,Dr. Khalid Johnson,Fall 2025,70,C,Enrolled
+R00261,S0115,Anwar Al-Farsi,Mathematics,1,BUS202,Accounting,C032,Dr. Yousuf Al-Farsi,Fall 2025,,,Dropped
+R00262,S0089,Tariq Al-Balushi,English,1,ENGR101,Engineering Fundamentals,C034,Dr. Fatima Al-Balushi,Fall 2025,,,Dropped
+R00263,S0035,Salim Al-Maamari,Physics,4,CS201,Database Systems,C039,Dr. Mariam Al-Lawati,Spring 2026,72,C,Enrolled
+R00264,S0106,Faisal Brown,Computer Science,3,MATH101,Calculus I,C006,Dr. Laila Ahmed,Spring 2026,51,F,Enrolled
+R00265,S0042,Nawal Al-Hinai,Physics,4,PHYS102,Physics II,C028,Dr. Ibrahim Brown,Fall 2025,90,A,Enrolled
+R00266,S0022,Rawan Smith,Mathematics,2,ENG201,Communication Skills,C023,Dr. Omar Lee,Fall 2025,91,A,Enrolled
+R00267,S0079,Sultan Al-Harthi,Mathematics,4,ENG101,Academic Writing,C004,Dr. Ibrahim Brown,Fall 2025,95,A,Enrolled
+R00268,S0010,Ahmed Busaidi,Biology,2,BUS202,Accounting,C011,Dr. Yousuf Al-Farsi,Fall 2025,92,A,Enrolled
+R00269,S0004,Ali Al-Lawati,Mathematics,1,CS301,Artificial Intelligence,C003,Dr. Ali Hassan,Spring 2026,73,C,Enrolled
+R00270,S0017,Rania Al-Kindi,Computer Science,3,CS201,Database Systems,C024,Dr. Mariam Al-Lawati,Spring 2025,68,D,Enrolled
+R00271,S0078,Talal Shukaili,Mathematics,1,CS301,Artificial Intelligence,C024,Dr. Ali Hassan,Spring 2026,68,D,Enrolled
+R00272,S0057,Badr Lee,Business,1,CS201,Database Systems,C026,Dr. Mariam Al-Lawati,Spring 2026,68,D,Enrolled
+R00273,S0041,Layla Khan,Biology,1,PHYS101,Physics I,C002,Dr. Yousuf Al-Farsi,Spring 2025,,,Dropped
+R00274,S0095,Rahma Qasimi,Computer Science,1,MATH101,Calculus I,C008,Dr. Laila Ahmed,Fall 2025,80,B,Enrolled
+R00275,S0034,Basma Brown,Engineering,4,PHYS101,Physics I,C019,Dr. Yousuf Al-Farsi,Spring 2026,84,B,Enrolled
+R00276,S0089,Tariq Al-Balushi,English,1,ENGR101,Engineering Fundamentals,C005,Dr. Fatima Al-Balushi,Spring 2025,99,A,Enrolled
+R00277,S0058,Salim Al-Rawahi,Mathematics,3,MATH101,Calculus I,C021,Dr. Laila Ahmed,Spring 2026,50,F,Enrolled
+R00278,S0086,Hamad Al-Rawahi,Computer Science,2,BUS201,Marketing,C019,Dr. John Smith,Spring 2026,79,C+,Enrolled
+R00279,S0115,Anwar Al-Farsi,Mathematics,1,PHYS102,Physics II,C012,Dr. Ibrahim Brown,Spring 2025,89,B+,Enrolled
+R00280,S0102,Laila Zadjali,Physics,2,BUS201,Marketing,C009,Dr. John Smith,Spring 2026,57,F,Enrolled
+R00281,S0031,Saeed Johnson,Engineering,4,ENGR101,Engineering Fundamentals,C024,Dr. Fatima Al-Balushi,Spring 2025,81,B,Enrolled
+R00282,S0060,Salim Al-Harthi,English,1,BIO101,Biology Basics,C005,Dr. Mariam Al-Lawati,Spring 2025,50,F,Enrolled
+R00283,S0040,Hanan Al-Lawati,Engineering,3,BUS202,Accounting,C027,Dr. Yousuf Al-Farsi,Spring 2026,78,C+,Enrolled
+R00284,S0099,Shatha Harbi,Business,3,ENG101,Academic Writing,C005,Dr. Ibrahim Brown,Spring 2026,65,D,Enrolled
+R00285,S0058,Salim Al-Rawahi,Mathematics,3,ENG201,Communication Skills,C036,Dr. Omar Lee,Spring 2026,53,F,Enrolled
+R00286,S0082,Zahra Al-Kindi,Mathematics,2,BIO201,Genetics,C028,Dr. Yousuf Al-Farsi,Spring 2025,53,F,Enrolled
+R00287,S0065,Jawaher Rahman,Engineering,4,CS102,Data Structures,C011,Dr. Mona Al-Harthi,Spring 2025,64,D,Enrolled
+R00288,S0021,Faisal Yahyai,Business,3,BUS101,Principles of Business,C019,Dr. John Smith,Spring 2026,78,C+,Enrolled
+R00289,S0109,Nada Brown,English,1,CS201,Database Systems,C018,Dr. Mariam Al-Lawati,Fall 2025,80,B,Enrolled
+R00290,S0017,Rania Al-Kindi,Computer Science,3,PHYS102,Physics II,C011,Dr. Ibrahim Brown,Spring 2026,77,C+,Enrolled
+R00291,S0076,Adel Riyami,Computer Science,2,BIO201,Genetics,C039,Dr. Yousuf Al-Farsi,Spring 2025,84,B,Enrolled
+R00292,S0044,Adel Al-Hinai,English,1,BIO201,Genetics,C006,Dr. Yousuf Al-Farsi,Spring 2025,46,F,Enrolled
+R00293,S0006,Nawal Al-Balushi,English,1,BIO201,Genetics,C037,Dr. Yousuf Al-Farsi,Fall 2025,94,A,Enrolled
+R00294,S0054,Badr Riyami,Physics,4,CS101,Intro to Programming,C035,Dr. Fatima Al-Balushi,Fall 2025,,,Dropped
+R00295,S0038,Sultan Qasimi,Business,4,PHYS102,Physics II,C026,Dr. Ibrahim Brown,Fall 2025,96,A,Enrolled
+R00296,S0039,Huda Said,English,1,ENG201,Communication Skills,C029,Dr. Omar Lee,Spring 2025,55,F,Enrolled
+R00297,S0054,Badr Riyami,Physics,4,ENGR101,Engineering Fundamentals,C010,Dr. Fatima Al-Balushi,Fall 2025,83,B,Enrolled
+R00298,S0041,Layla Khan,Biology,1,BUS101,Principles of Business,C023,Dr. John Smith,Spring 2026,,,Dropped
+R00299,S0052,Shatha Busaidi,Biology,2,CS301,Artificial Intelligence,C021,Dr. Ali Hassan,Fall 2025,51,F,Enrolled
+R00300,S0031,Saeed Johnson,Engineering,4,ENG201,Communication Skills,C010,Dr. Omar Lee,Spring 2025,60,D,Enrolled
