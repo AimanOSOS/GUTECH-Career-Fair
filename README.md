@@ -19,6 +19,18 @@ All challenges are **2 days long** and **AI tools are fully allowed**. Use whate
 
 ---
 
+## 🔧 How to use this repo
+
+1. Clone the challenge repository:
+   ```bash
+   git clone https://github.com/AimanOSOS/GUTECH-Career-Fair.git
+   ```
+2. Work inside the folder for the challenge you choose.
+3. When you are ready to submit, push your solution to GitHub and keep the repository public.
+4. Send the public repository link to `alzahra@osos.om`.
+
+---
+
 ## 1 — TaskFlow `taskflow/`
 
 **What is it?**
